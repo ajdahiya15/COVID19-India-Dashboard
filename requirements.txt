@@ -1,0 +1,7 @@
+notebook
+numpy
+pandas
+plotly
+ipywidgets
+cufflinks
+voila
